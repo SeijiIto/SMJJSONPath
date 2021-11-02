@@ -12,7 +12,7 @@
     "kedington": "kevin.edington@snapito.com"
   },
   "source": {
-    "git": "https://github.com/kedington/SMJJSONPath.git",
+    "git": "https://github.com/SeijiIto/SMJJSONPath.git",
     "tag": "0.2.3"
   },
   "platforms": {
