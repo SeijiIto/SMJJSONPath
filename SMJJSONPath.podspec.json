@@ -19,5 +19,5 @@
     "ios": "8.0",
     "osx": "10.9"
   },
-  "source_files": "Classes/**/*.{h,m}"
+  "source_files": "SMJJSONPath/*.{h,m}"
 }
