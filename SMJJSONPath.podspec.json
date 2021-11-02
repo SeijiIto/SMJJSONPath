@@ -6,7 +6,7 @@
   "homepage": "https://github.com/kedington/SMJJSONPath",
   "license": {
     "type": "Apache",
-    "file": "LICENSE"
+    "file": "LICENSE.txt"
   },
   "authors": {
     "kedington": "kevin.edington@snapito.com"
